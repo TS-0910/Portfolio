@@ -1,7 +1,7 @@
 # My Kaggle Portfolios<br/>
 
-I have been entering competitions on Kaggle, and here are some of my work.<br/>
+I have been entering competitions on Kaggle, and I'm going to upload some of my work from that.<br/>
 
-## [House Prices]()
+## [House Prices](https://github.com/TS-0910/Kaggle_Housing)
 
-  I referred to the [shared notebook by Pedro Marcelino](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python), and finished analytics by using light gbm.
+Predicting the house prices based on features such as the size of the garage, living room, and overall quality etc.
