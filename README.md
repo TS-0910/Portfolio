@@ -3,7 +3,7 @@
 基本的には自力で解いた解答を載せています。
 
 ## 第一章<br/>
-[ノック1]()
+[ノック1](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF1.ipynb)
 
 # 2. Kaggle Portfolios<br/>
 
