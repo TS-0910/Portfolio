@@ -4,8 +4,8 @@
 
 ## 第一章<br/>
 [ノック1](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF1.ipynb)<br/>
-[ノック2](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF2.ipynb)
-[ノック3]()
+[ノック2](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF2.ipynb)<br/>
+[ノック3](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF3.ipynb)
 
 
 # 2. Kaggle Portfolios<br/>
