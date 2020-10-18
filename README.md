@@ -1,4 +1,11 @@
-# My Kaggle Portfolios<br/>
+# Python実践データ分析100本ノック<br/>
+"Python実践データ分析100本ノック"を1から解き進めていきました。<br/>
+基本的には自力で解いた解答を載せています。
+
+## 第一章<br/>
+[ノック1]()
+
+# Kaggle Portfolios<br/>
 
 I have been entering competitions on Kaggle, and I'm going to upload some of my work from that.<br/>
 
