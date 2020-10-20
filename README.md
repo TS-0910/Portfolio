@@ -2,7 +2,7 @@
 "Python実践データ分析100本ノック"を1から解き進めていきました。<br/>
 本の解答は見ずに自力で導き出した解答を載せています。
 
-## 第一章<br/>
+## [第一章](https://github.com/TS-0910/100fungos_1st)<br/>
 [ノック1](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF1.ipynb)<br/>
 [ノック2](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF2.ipynb)<br/>
 [ノック3](https://github.com/TS-0910/Portfolio/blob/master/%E3%83%8E%E3%83%83%E3%82%AF3.ipynb)<br/>
