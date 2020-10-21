@@ -2,7 +2,7 @@
 "Python実践データ分析100本ノック"を1から解き進めていきました。<br/>
 本の解答は見ずに自力で導き出した解答を載せています。
 
-## [第一章](https://github.com/TS-0910/100fungos_1st)<br/>
+## [解答](https://github.com/TS-0910/100fungos_1st)<br/>
 
 # 2. Kaggle Portfolios<br/>
 
