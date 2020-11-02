@@ -21,8 +21,7 @@ Predicting the house prices based on features such as the size of the garage, li
 # 3. Background
 
 Hi! I'm currently studying to become a data scientist / machine learning engineer / data analyst.<br/>
-I've finished some courses on Udemy for python and machine learning, on Progate for Python and SQL, and now am tackling competitions on Kaggle. <br/>
-Also I'm studying Natural Language Processing as well.
+I've finished some courses on Udemy for python and machine learning, on Progate for Python and SQL, tackled competitions on Kaggle, and now solving problems from data analytics text book(Python 実践データ分析 100本ノック). <br/>
 
 ## Contact Me
 
