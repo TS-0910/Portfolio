@@ -1,5 +1,5 @@
 # Data Science Portfolio<br/>
-My work from data science competitions like Kaggle and Bitgrid.<br/>
+My work from data science competitions like Kaggle and bitgrit.<br/>
 ## [Data Science Portfolio](https://github.com/TS-0910/Data-Science-Portfolio)
 
 # Tableauでの営業成績の可視化・ダッシュボード作成<br/>
